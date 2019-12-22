@@ -1,0 +1,207 @@
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Design.dll
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.dll
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+C:\Users\AcaipBisi\documents\visual studio 2017\Projects\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Design.dll
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.dll
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Fonts.dll
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.tumKitaplar.resources
+E:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.giris.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.giris.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.tumKitaplar.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+J:\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanet.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Design.dll
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.dll
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+C:\Users\AcaipBisi\Desktop\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+J:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Design.dll
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.dll
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\MetroFramework.Fonts.dll
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+E:\Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kullanici.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.post.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kullanici.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.post.resources
+J:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.kullaniciAnasayfa.resources
+E:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.kullaniciAnasayfa.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kullanici.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.kullaniciAnasayfa.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.post.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+F:\ \Yeni klasör\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kullanici.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.kullaniciAnasayfa.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.post.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+D:\Dosyalarım\c# öğreniyorum\Yaptığım Uygulamalarım\WindowsFormOdev\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe.config
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\bin\Debug\WindowsFormOdev.exe
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\bin\Debug\WindowsFormOdev.pdb
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.csprojResolveAssemblyReference.cache
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.Giris.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.gorevli.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.girisler.user.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kullanici.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphaneAnasayfa.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.anasayfa.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetver.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kitapEkle.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.kullaniciEkle.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.kutuphane.emanetal.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.kullaniciAnasayfa.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.post.post.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.Properties.Resources.resources
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.csproj.GenerateResource.Cache
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.exe
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\obj\Debug\WindowsFormOdev.pdb
+C:\Users\bbas5\Desktop\Kütüphane Otomasyonum\Kütüphane Otomasyonum\WindowsFormOdev\bin\Debug\veritabani.mdb
